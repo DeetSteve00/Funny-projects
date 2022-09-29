@@ -3,7 +3,7 @@
 
 /**
  *  McCee by DeetSteve00
- *      Redefined C's syntax using Macros 
+ *      "Redefined" C's syntax using Macros
  *      Completely useless and stupid
  *      In GCC use flag -E to see preprossesor output (Actual C code)
 **/
