@@ -1,6 +1,6 @@
 #include <iostream>
 #include <conio.h>
-#include <windows.h>
+#include <windows.h> /* Bet it will only work on Windows 10+ */
 #include "engin.h"
 
 /**
@@ -9,8 +9,8 @@
  * This is a small program to create ASCII art using a cursor and you keyboard
  * You can also add colors to your canvas if you feel creative
  * 
- * This small program is now fully finished, bugs are impossible, everytihng is meant to be what it is
- * there should and isn't any unexpected behaivour on this small program, there's just no way
+ * This small program is now fully finished, bugs are impossible, everything is meant to be what it is
+ * There should and isn't any unexpected behaivour on this small program, there's just no way
  * Given the same input, there will be the same output
 **/
 
